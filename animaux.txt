@@ -8,3 +8,4 @@ Phénix
 lion
 paresseux
 lapin
+Ornithorynque
