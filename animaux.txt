@@ -11,4 +11,5 @@ lapin
 Ornithorynque
 leopard
 Python
+crocodile=
 pirhana
