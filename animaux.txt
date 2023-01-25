@@ -7,4 +7,5 @@ panthère
 Phénix
 lion
 paresseux
+lapin
 Ornithorynque
