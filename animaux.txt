@@ -10,3 +10,4 @@ paresseux
 lapin
 Ornithorynque
 leopard
+Python
